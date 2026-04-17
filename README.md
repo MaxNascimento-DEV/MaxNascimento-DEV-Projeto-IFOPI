@@ -1,18 +1,96 @@
-# React + Vite
+# 🎓 Sistema de Gerenciamento de Alunos - IFOPI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Sobre o Projeto
+Este projeto foi desenvolvido com o objetivo de solucionar problemas reais enfrentados pela ONG IFOPI na gestão de alunos.
 
-Currently, two official plugins are available:
+A solução consiste em um sistema web que permite organizar, controlar e acompanhar informações acadêmicas de forma prática, segura e eficiente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Problema
+A ONG IFOPI enfrentava dificuldades como:
+- Falta de organização no controle de alunos
+- Uso de processos manuais sujeitos a erros
+- Dificuldade no acesso às informações
+- Falta de acompanhamento de notas e frequência
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 💡 Solução
+Desenvolvemos um sistema que oferece:
+- Cadastro e gerenciamento de alunos
+- Controle de notas e frequência
+- Acesso rápido e seguro às informações
+- Centralização dos dados em um único sistema
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias Utilizadas
+
+### Front-end
+- HTML
+- CSS
+-  React
+
+### Back-end
+- Node.js / PHP (ajuste conforme seu projeto)
+
+### Banco de Dados
+- MySQL
+
+### Versionamento
+- Git & GitHub
+
+---
+
+## 📂 Estrutura do Projeto
+Projeto-IFOPI/
+│
+├── frontend/
+│ ├── src/
+│ ├── components/
+│ └── pages/
+│
+├── backend/
+│ ├── controllers/
+│ ├── routes/
+│ └── models/
+│
+├── database/
+│ └── scripts.sql
+│
+└── README.md
+
+---
+
+## 🔐 Funcionalidades
+
+- Cadastro de usuários (admin, professor e aluno)
+- Gerenciamento de alunos
+- Matrícula em cursos
+- Lançamento de notas
+- Consulta de desempenho
+- Controle de frequência
+- Relatórios
+
+---
+
+## 🎯 Objetivo
+
+Este projeto tem como principal objetivo aplicar conhecimentos de desenvolvimento de software na resolução de problemas reais, contribuindo para a melhoria da gestão da ONG IFOPI.
+
+## 👥 Equipe
+
+- Carlos Henrique de Lima Borba 
+- Heberth Igor Camelo de Alcântara 
+- Joelmir Pereira de Nascimento Ferreira 
+- José Nilton Soares da Silva Filho 
+- Marcelo Henrique Moura da Silva
+- Maxwell Cadete do Nascimento 
+- Rafael Lucas Silva de Assis 
+- Vinícius Tavares de Oliveira
+- Yan Lucas Queiroz Cavalcante do Couto
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos.
