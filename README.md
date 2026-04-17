@@ -33,7 +33,7 @@ Desenvolvemos um sistema que oferece:
 -  React
 
 ### Back-end
-- Node.js / PHP (ajuste conforme seu projeto)
+- Node.js / PHP 
 
 ### Banco de Dados
 - MySQL
@@ -44,22 +44,22 @@ Desenvolvemos um sistema que oferece:
 ---
 
 ## 📂 Estrutura do Projeto
-Projeto-IFOPI/
-│
-├── frontend/
-│ ├── src/
-│ ├── components/
-│ └── pages/
-│
-├── backend/
-│ ├── controllers/
-│ ├── routes/
-│ └── models/
-│
-├── database/
-│ └── scripts.sql
-│
-└── README.md
+
+        📂Projeto-IFOPI/
+         │──📂Frontend/
+         │   └─📂src/
+         │   └─📂components/
+         │   └─📂pages/
+         │   
+         │──📂 bakcend/
+         │   └─📂controllers/
+         │   └─📂routes/
+         │   └─📂models/
+         │   
+         │──📂database/
+         │   ─📂scripts;sql
+         │
+         │──📄README.md
 
 ---
 
